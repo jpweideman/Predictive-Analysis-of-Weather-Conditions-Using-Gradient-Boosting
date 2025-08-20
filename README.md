@@ -6,7 +6,7 @@ This project conducts a **predictive analysis of weather conditions** for the ci
 1. **Temperature**
 2. **Apparent Temperature**
 
-Key components include data cleaning, exploratory data analysis, feature engineering, hyperparameter tuning, and feature importance analysis.
+This include data cleaning, exploratory data analysis, feature engineering, hyperparameter tuning, and feature importance analysis.
 
 - **Data Cleaning:** Addressing missing or anomalous values using methods like Multiple Imputation by Chained Equations (MICE).
 - **Exploratory Data Analysis (EDA):** Insights into variable relationships and patterns, including annual temperature cycles and correlations.
